@@ -8,6 +8,7 @@ Python 3 & mayavi.
 Output image from google research model struct2depth.
 ![alt text](https://github.com/soarbear/3d_point_cloud_plot/blob/master/output_from_google_struct2depth.png)
 
+
 3d point cloud plot with npy file from google research model struct2depth.
 ![alt text](https://github.com/soarbear/3d_point_cloud_plot/blob/master/test_point_cloud.png)
 
